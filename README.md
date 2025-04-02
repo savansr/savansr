@@ -1,4 +1,4 @@
-👋 Hi, I'm Savan Rathod! <br>
+<h1>👋 Hi, I'm Savan Rathod!</h1> <br>
 💻 Web Developer | 🚀 Aspiring Software Developer
 
 
